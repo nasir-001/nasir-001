@@ -30,4 +30,7 @@
 
 ![Nasir's GitHub stats](https://github-readme-stats.vercel.app/api?username=nasir-001&count_private=true&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nasir-001&layout=compact)](https://github.com/nasir-001/github-readme-stats&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nasir-001&layout=compact)](https://github.com/nasir-001/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/nasir-001/github-readme-stats)
+
