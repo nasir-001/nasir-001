@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nasir</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 
-<p align="left"> <a href="https://twitter.com/nasirlaliyu" target="blank"><img src="https://img.shields.io/twitter/follow/nasirlaliyu?logo=twitter&style=for-the-badge" alt="nasirlaliyu" /></a> </p>
-
 - 🔭 I’m currently working on [vue-js 100 components](https://github.com/nasir-001/100-components)
 
 - 🌱 I’m currently learning **vue-js, Quasar-js and tailwindcss**
@@ -14,6 +12,8 @@
 - 📫 How to reach me **nasirlawal001@gmail.com**
 
 - ⚡ Fun fact **I love to code, play games and read manga**
+
+<p align="left"> <a href="https://twitter.com/nasirlaliyu" target="blank"><img src="https://img.shields.io/twitter/follow/nasirlaliyu?logo=twitter&style=for-the-badge" alt="nasirlaliyu" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
