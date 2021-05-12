@@ -20,8 +20,6 @@
 
 <a href="https://twitter.com/nasirlaliyu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="nasirlaliyu" height="30" width="40" /></a>
 
-<br />
-
 <a href="https://stackoverflow.com/users/14596537" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="14596537" height="30" width="40" /></a>
 </p>
 
