@@ -32,3 +32,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nasir-001&layout=compact)](https://github.com/nasir-001/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nasir-001&repo=github-readme-stats)](https://github.com/nasir-001/github-readme-stats)
+
