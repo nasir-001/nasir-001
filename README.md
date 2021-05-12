@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [vue-js 100 components](https://github.com/nasir-001/100-components)
 
-- 🌱 <h4> I’m currently learning **vue-js, Quasar-js and tailwindcss** </h4>
+- 🌱 I’m currently learning **vue-js, Quasar-js and tailwindcss**
 
 - 👯 I’m looking to collaborate on **open source project**
 
