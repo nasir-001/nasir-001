@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nasir</h1>
 <h3 align="center">A passionate frontend developer from Zaria</h3>
 
-- 🔭 I’m currently working on [vue-js 100 components](https://github.com/nasir-001/100-components)
+- 🔭 I’m currently working on [vue-js and tailwindcss 30 components](https://nasir-001.github.io/)
 
 - 🌱 I’m currently learning **vue-js, Quasar-js and tailwindcss**
 
