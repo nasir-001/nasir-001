@@ -1,19 +1,46 @@
-<h1 align="center">Hi 👋, I'm Nasir</h1>
-<h3 align="center">A passionate frontend developer from Zaria</h3>
+# Hey, I'm Nasir Lawal 👋
 
-- 🔭 I’m currently working on [vue-js and tailwindcss 30 components](https://nasir-001.github.io/)
+ ![screenM (1)](https://user-images.githubusercontent.com/57562869/125964448-c8bbc20f-3da3-4056-aa93-d6aea7eb96ef.png)
 
-- 🌱 I’m currently learning **vue-js, Quasar-js and tailwindcss**
+<p align="center">
+  <em>
+    Hello, I am Nasir Lawal <b>a</b> dergraduate from <a href="https://iaiict.abu.edu.ng/"> <b>Independante</b> College of ICT</a>. <br>
+    <b>a passionate frontend</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>team worker</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>preoccupied</b>
+    with <b>programming challenges</b> and always looking for new challenges and a partner with whom we will discover the challenges of the programming world.
+  </em> 
+  <br>
+  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">"Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+</p>
+<br><br>
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-- 👯 I’m looking to collaborate on **open source project**
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-- 💬 Ask me about **python, django, php, laravel, javascipt and fastapi**
+✔ Currently working, learning and growing my skillset in frontend development, competitive coding🔭<br>
+✔  Open for collaborations in ***web development***    <!-- I'm Aadi :wave: --><br>
+✔  I love exploring new tech stack and building cool stuffs  🌱<br>
 
-- 📫 How to reach me **nasirlawal001@gmail.com**
+ 
 
-- ⚡ Fun fact **I love to code, play games and read manga**
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Technologies and tools🔧...***
+<p align="left">
+ 
 
-<p align="left"> <a href="https://twitter.com/nasirlaliyu" target="blank"><img src="https://img.shields.io/twitter/follow/nasirlaliyu?logo=twitter&style=for-the-badge" alt="nasirlaliyu" /></a> </p>
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
+<img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
+<img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
+<img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat">
+
+![VS Badge](https://img.shields.io/badge/-Visual%20Studio-239120?style=flat&logo=C-Sharp&logoColor=white)
+![Arduino Badge](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
+[![Electrical Engineering Development Badge](https://img.shields.io/badge/-Electrical%20Engineering-4C8CBF?style=flat&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories) 
+---
+
 
 <h1 align="left">Connect with me:</h1>
 <h3 align="left">
