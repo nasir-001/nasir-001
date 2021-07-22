@@ -1,6 +1,4 @@
-# Hey, I'm Nasir Lawal 👋
-
- ![screenM (1)](https://user-images.githubusercontent.com/57562869/125964448-c8bbc20f-3da3-4056-aa93-d6aea7eb96ef.png)
+# Hey, I'm Nasir Lawal �
 
 <p align="center">
   <em>
