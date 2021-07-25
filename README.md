@@ -1,4 +1,4 @@
-# Hey, I'm Nasir Lawal �
+# Hey, I'm Nasir Lawal
 
 <p align="center">
   <em>
@@ -7,7 +7,7 @@
     with <b>programming challenges</b> and always looking for new challenges and a partner with whom we will discover the challenges of the programming world.
   </em> 
   <br>
-  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">"Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /><img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 </p>
 <br><br>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
