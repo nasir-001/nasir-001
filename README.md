@@ -2,7 +2,7 @@
 
 <p align="center">
   <em>
-    Hello, I am Nasir Lawal <b>a</b> dergraduate from <a href="https://iaiict.abu.edu.ng/"> <b></b> College of ICT</a>. <br>
+    Hello, I am Nasir Lawal <b>an</b> undergraduate from <a href="https://iaiict.abu.edu.ng/"> <b></b> College of ICT</a>. <br>
     <b>a passionate frontend developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>team worker</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>preoccupied</b>
     with <b>programming challenges</b> and always looking for new challenges and a partner with whom we will discover the challenges of the programming world.
   </em> 
