@@ -30,7 +30,7 @@
 
 <h1 align="left">Connect with me:</h1>
 <h3 align="left">
-  <a href="https://twitter.com/_code_for_fun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="nasirlaliyu" height="30" width="40" /></a>
+  <a href="https://twitter.com/_code_for_fun" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="nasirlaliyu" height="30" width="40" /></a>
 
 **nasirlawal001@gmail.com**
 
