@@ -14,7 +14,7 @@
 
 ***About me ....***
 
-✔ Currently working, learning and growing my skillset in frontend development, competitive coding🔭<br>
+✔ Currently working, learning and growing my skillset in web development, competitive coding🔭<br>
 ✔  Open for collaborations in ***web development***    <!-- I'm Aadi :wave: --><br>
 ✔  I love exploring new tech stack and building cool stuffs  🌱<br>
 
