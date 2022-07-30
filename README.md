@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nasir Lawal</h1>
+<h1 align="center">Hi 👋, I'm Nasir</h1>
 <h3 align="center">A passionate fullstack developer based in Kaduna, Nigeria</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nasir-001" alt="nasir-001" /></a> </p>
