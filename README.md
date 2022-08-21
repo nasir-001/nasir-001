@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on my linkedin [https://www.linkedin.com/in/nasir-lawal-302b581b1/](https://www.linkedin.com/in/nasir-lawal-302b581b1/)
 
-- 💬 Ask me about **python, django, javascript, vuejs and quasarjs**
+- 💬 Ask me about **python, django, javascript, vuejs and quasar framework**
 
 - 📫 How to reach me **nasirlawal001@gmail.com**
 
