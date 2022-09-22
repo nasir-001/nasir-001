@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **personal project (storeIt)**
 
-- 🌱 I’m currently learning **flutter/dart**
+- 🌱 I’m currently learning **GO**
 
 - 👯 I’m looking to collaborate on **on any open source project**
 
