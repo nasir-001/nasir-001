@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nasir-001" alt="nasir-001" /></a> </p>
 
-- 🔭 I’m currently working on **personal project (storeIt)**
+- 🔭 I’m currently working on **personal project (orderIt)**
 
 - 🌱 I’m currently learning **GO**
 
