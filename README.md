@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **personal project (orderIt)**
 
-- 🌱 I’m currently learning **GO**
+- 🌱 I’m currently learning **New Technology**
 
 - 👯 I’m looking to collaborate on **on any open source project**
 
