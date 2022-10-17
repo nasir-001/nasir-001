@@ -11,8 +11,6 @@
 
 - 🤝 I’m looking for help with **any opportunity😂**
 
-- 📝 I regularly write articles on my linkedin [https://www.linkedin.com/in/nasir-lawal-302b581b1/](https://www.linkedin.com/in/nasir-lawal-302b581b1/)
-
 - 💬 Ask me about **PYTHON, DJANGO, FastAPI, JAVASCRIPT, VUEJS, REACTJS and QUASAR FRAMEWORK**
 
 - 📫 How to reach me **nasirlawal001@gmail.com**
